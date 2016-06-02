@@ -1,2 +1,2 @@
 # HadoopMapReduce
-Homework experiment using MapReduce programming model for the course Research Methodology in ICT at the Faculty of computer science and engineering, Skopje
+Homework experiment using MapReduce programming model for the course Research Methodology in ICT at the Faculty of computer science and engineering, Skopje. The problem that was solved is calculation for the goal scorring efficiency in each of the leagues i.e. returning the average of goals scored per match in the past X seasons (X is the number of input files - each file represents the season year)
